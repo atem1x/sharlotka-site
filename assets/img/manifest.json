@@ -1,0 +1,356 @@
+[
+ {
+  "file": "house-garden.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "house-side.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "house-front.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "terrace-table.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "brick-oven.jpg",
+  "w": 960,
+  "h": 802,
+  "orient": "landscape"
+ },
+ {
+  "file": "garden-path.jpg",
+  "w": 1068,
+  "h": 1600,
+  "orient": "portrait"
+ },
+ {
+  "file": "garden-decor.jpg",
+  "w": 1067,
+  "h": 1600,
+  "orient": "portrait"
+ },
+ {
+  "file": "garden-flowers.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "entrance-sign.jpg",
+  "w": 938,
+  "h": 960,
+  "orient": "portrait"
+ },
+ {
+  "file": "hall-banquet.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "hall-long.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "veranda.jpg",
+  "w": 1068,
+  "h": 1600,
+  "orient": "portrait"
+ },
+ {
+  "file": "veranda-decor.jpg",
+  "w": 1068,
+  "h": 1600,
+  "orient": "portrait"
+ },
+ {
+  "file": "hall-winter.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "dessert-cabinet.jpg",
+  "w": 1067,
+  "h": 1600,
+  "orient": "portrait"
+ },
+ {
+  "file": "wildflowers.jpg",
+  "w": 1068,
+  "h": 1600,
+  "orient": "portrait"
+ },
+ {
+  "file": "ladder-decor.jpg",
+  "w": 1068,
+  "h": 1600,
+  "orient": "portrait"
+ },
+ {
+  "file": "boots-lavender.jpg",
+  "w": 1068,
+  "h": 1600,
+  "orient": "portrait"
+ },
+ {
+  "file": "blue-jug.jpg",
+  "w": 1068,
+  "h": 1600,
+  "orient": "portrait"
+ },
+ {
+  "file": "cat-oven.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "cat-sleeping.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "tea-blue.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "cookies.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "naked-cake.jpg",
+  "w": 1277,
+  "h": 1600,
+  "orient": "portrait"
+ },
+ {
+  "file": "canapes.jpg",
+  "w": 1280,
+  "h": 1280,
+  "orient": "landscape"
+ },
+ {
+  "file": "varenyky-making.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "flour-heart.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "rolling-dough.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "dumplings-hands.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "pelmeni-board.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "varenyky-board.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "varenyky-plate.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "grill-chicken.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "caprese.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "chess-cake.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "herring.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "grilled-veg.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "appetizer-jar.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "greek-salad.jpg",
+  "w": 960,
+  "h": 640,
+  "orient": "landscape"
+ },
+ {
+  "file": "cake-slice.jpg",
+  "w": 960,
+  "h": 640,
+  "orient": "landscape"
+ },
+ {
+  "file": "appetizer-caviar.jpg",
+  "w": 960,
+  "h": 640,
+  "orient": "landscape"
+ },
+ {
+  "file": "sponge-cake.jpg",
+  "w": 960,
+  "h": 640,
+  "orient": "landscape"
+ },
+ {
+  "file": "meringue-cake.jpg",
+  "w": 960,
+  "h": 640,
+  "orient": "landscape"
+ },
+ {
+  "file": "salad-almond.jpg",
+  "w": 960,
+  "h": 640,
+  "orient": "landscape"
+ },
+ {
+  "file": "warm-salad.jpg",
+  "w": 960,
+  "h": 640,
+  "orient": "landscape"
+ },
+ {
+  "file": "bundt-dessert.jpg",
+  "w": 960,
+  "h": 640,
+  "orient": "landscape"
+ },
+ {
+  "file": "fish-roll.jpg",
+  "w": 807,
+  "h": 605,
+  "orient": "landscape"
+ },
+ {
+  "file": "duck-leg.jpg",
+  "w": 807,
+  "h": 605,
+  "orient": "landscape"
+ },
+ {
+  "file": "event-table-green.jpg",
+  "w": 1280,
+  "h": 853,
+  "orient": "landscape"
+ },
+ {
+  "file": "buffet-garden.jpg",
+  "w": 1280,
+  "h": 853,
+  "orient": "landscape"
+ },
+ {
+  "file": "candy-bar.jpg",
+  "w": 1280,
+  "h": 853,
+  "orient": "landscape"
+ },
+ {
+  "file": "buffet-1.jpg",
+  "w": 1280,
+  "h": 853,
+  "orient": "landscape"
+ },
+ {
+  "file": "buffet-2.jpg",
+  "w": 1280,
+  "h": 853,
+  "orient": "landscape"
+ },
+ {
+  "file": "lemonades.jpg",
+  "w": 1280,
+  "h": 853,
+  "orient": "landscape"
+ },
+ {
+  "file": "banquet-table.jpg",
+  "w": 1280,
+  "h": 853,
+  "orient": "landscape"
+ },
+ {
+  "file": "table-setting.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "table-herbs.jpg",
+  "w": 1068,
+  "h": 1600,
+  "orient": "portrait"
+ },
+ {
+  "file": "napkin-rosemary.jpg",
+  "w": 1280,
+  "h": 854,
+  "orient": "landscape"
+ },
+ {
+  "file": "lemonade-herbs.jpg",
+  "w": 1068,
+  "h": 1600,
+  "orient": "portrait"
+ }
+]

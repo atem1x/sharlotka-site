@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Після публікації розкоментуйте й замініть YOUR-DOMAIN на адресу сайту:
+# Sitemap: https://YOUR-DOMAIN/sitemap.xml
